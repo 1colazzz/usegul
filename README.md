@@ -1,2 +1,2 @@
-# usegul
+# useful
 something useful
